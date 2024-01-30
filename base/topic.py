@@ -1,0 +1,2 @@
+class BaseTopic:
+    name: str
